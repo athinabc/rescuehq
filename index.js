@@ -60,6 +60,6 @@ app.get('/api/v1/pets/:id', (req, res) => {
   res.json(pets[req.params.id]);
 });
 
-app.listen(10000, () => {
+app.listen(80, () => {
   console.log(`Server started!`);
 });
