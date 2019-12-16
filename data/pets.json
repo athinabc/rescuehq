@@ -1,0 +1,10 @@
+[
+	{
+		"name": "Simba",
+		"dob": ISODate("2012-06-07T13:37:44.326Z"),
+		"sex": "male",
+		"type": "dog",
+		"status": "adopted",
+		"tags": "mixed"
+	}
+]
