@@ -11,7 +11,7 @@
     "express": "^4.16.4",
     "express-basic-auth": "^1.2.0",
     "express-healthcheck": "^0.1.0",
-    "express-jwt": "^5.1.0",
+    "express-jwt": "^8.2.0",
     "express-jwt-authz": "^1.0.0",
     "express-oauth-server": "^2.0.0",
     "express-params": "0.0.3",
